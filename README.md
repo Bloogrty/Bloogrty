@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Bloogrty
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning fullstack
-- 💞️ I’m looking to collaborate on I dunno
-- 📫 How to reach me? just chat me!
+# Bloogrty
 
-<!---
-Bloogrty/Bloogrty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+$ whoami
+bloogrty
+
+$ uptime
+still building...
+
+$ ls
+projects/  experiments/  questionable-decisions/
+
+$ cat motivation.txt
+if it works, don't touch it.
+if it doesn't, git blame.
+
+$ mood
+coffee && code
+
+$ git status
+building something...
+```
