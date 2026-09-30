@@ -33,7 +33,9 @@ Your branch is ahead of yesterday.
 building something...
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bloogrty&theme=dark&hide_border=true&background=0D1117" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Bloogrty&hide_border=true" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,html,css,java,git,github,vscode&theme=dark" />
+    <img alt="Python, JavaScript, HTML, CSS, Java, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=py,js,html,css,java,git,github,vscode&theme=light" />
+  </picture>
+</p>
