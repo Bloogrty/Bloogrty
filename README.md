@@ -40,10 +40,10 @@ _updates automatically every day_
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bloogrty&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloogrty&layout=compact&hide_border=true&theme=transparent" alt="top languages" />
+<img height="165" src="assets/stats.svg" alt="github stats" />
+<img height="165" src="assets/langs.svg" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com?user=bloogrty&hide_border=true&theme=transparent" alt="streak" />
+<img height="165" src="assets/streak.svg" alt="streak" />
 
 </div>
 
