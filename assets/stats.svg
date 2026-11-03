@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="165" viewBox="0 0 320 165" role="img" aria-label="github stats">
+<style>
+  .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #0969da; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #57606a; }
+  .value { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+  .big   { font: 700 26px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+  .rule  { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .title { fill: #58a6ff; }
+    .label { fill: #8b949e; }
+    .value, .big { fill: #e6edf3; }
+    .rule  { stroke: #30363d; }
+  }
+</style>
+<text x="20" y="32" class="title">bloogrty's github stats</text>
+<text x="20" y="62" class="label">total stars</text>
+<text x="300" y="62" class="value" text-anchor="end">0</text>
+<text x="20" y="84" class="label">commits</text>
+<text x="300" y="84" class="value" text-anchor="end">1,016</text>
+<text x="20" y="106" class="label">pull requests</text>
+<text x="300" y="106" class="value" text-anchor="end">1</text>
+<text x="20" y="128" class="label">issues</text>
+<text x="300" y="128" class="value" text-anchor="end">0</text>
+<text x="20" y="150" class="label">public repos</text>
+<text x="300" y="150" class="value" text-anchor="end">26</text>
+</svg>

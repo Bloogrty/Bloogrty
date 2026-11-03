@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img" aria-label="contribution streak">
+<style>
+  .title { font: 600 16px 'Segoe UI', Ubuntu, sans-serif; fill: #0969da; }
+  .label { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #57606a; }
+  .value { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+  .big   { font: 700 26px 'Segoe UI', Ubuntu, sans-serif; fill: #1f2328; }
+  .rule  { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .title { fill: #58a6ff; }
+    .label { fill: #8b949e; }
+    .value, .big { fill: #e6edf3; }
+    .rule  { stroke: #30363d; }
+  }
+</style>
+<text x="82" y="70" class="big" text-anchor="middle">1,671</text>
+<text x="82" y="100" class="title" text-anchor="middle">total contributions</text>
+<text x="82" y="124" class="label" text-anchor="middle">since Feb 19, 2023</text>
+<text x="247" y="70" class="big" text-anchor="middle">2</text>
+<text x="247" y="100" class="title" text-anchor="middle">current streak</text>
+<text x="247" y="124" class="label" text-anchor="middle">2 days</text>
+<line x1="165" y1="35" x2="165" y2="135" class="rule"/>
+<text x="412" y="70" class="big" text-anchor="middle">11</text>
+<text x="412" y="100" class="title" text-anchor="middle">longest streak</text>
+<text x="412" y="124" class="label" text-anchor="middle">11 days</text>
+<line x1="330" y1="35" x2="330" y2="135" class="rule"/>
+</svg>

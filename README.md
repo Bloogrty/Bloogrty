@@ -10,6 +10,22 @@
 ```console
 $ whoami
 bloogrty
+
+$ uptime
+up 3 years, 10 months, still building...
+
+$ ls projects/ | wc -l
+21
+
+$ cat motivation.txt
+if it works, don't touch it.
+if it doesn't, git blame.
+
+$ echo $MOOD
+coffee && code
+
+$ git log -1 --oneline
+last push: qa-tools (1 month ago)
 ```
 <!-- TERMINAL:END -->
 
@@ -26,7 +42,18 @@ bloogrty
 ## 📂 Recently worked on
 
 <!-- PROJECTS:START -->
-_updates automatically every day_
+| project | what it is | lang | updated |
+| --- | --- | --- | --- |
+| [qa-tools](https://github.com/Bloogrty/qa-tools) | _no description yet_ | JavaScript | 1 month ago |
+| [snake](https://github.com/Bloogrty/snake) | _no description yet_ | Python | 1 year ago |
+| [higher-or-lower](https://github.com/Bloogrty/higher-or-lower) | _no description yet_ | Python | 1 year ago |
+| [guess-number](https://github.com/Bloogrty/guess-number) | _no description yet_ | Python | 1 year ago |
+| [blackjack](https://github.com/Bloogrty/blackjack) | _no description yet_ | - | 1 year ago |
+| [auction](https://github.com/Bloogrty/auction) | _no description yet_ | - | 1 year ago |
+| [caesar-cipher](https://github.com/Bloogrty/caesar-cipher) | _no description yet_ | - | 1 year ago |
+| [hangman-python](https://github.com/Bloogrty/hangman-python) | _no description yet_ | - | 1 year ago |
+
+<sub>last refreshed 2026-11-03 · [see all repos](https://github.com/bloogrty?tab=repositories)</sub>
 <!-- PROJECTS:END -->
 
 ## 🧩 Practice
