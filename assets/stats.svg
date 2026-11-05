@@ -16,7 +16,7 @@
 <text x="20" y="62" class="label">total stars</text>
 <text x="300" y="62" class="value" text-anchor="end">0</text>
 <text x="20" y="84" class="label">commits</text>
-<text x="300" y="84" class="value" text-anchor="end">1,024</text>
+<text x="300" y="84" class="value" text-anchor="end">1,028</text>
 <text x="20" y="106" class="label">pull requests</text>
 <text x="300" y="106" class="value" text-anchor="end">1</text>
 <text x="20" y="128" class="label">issues</text>
