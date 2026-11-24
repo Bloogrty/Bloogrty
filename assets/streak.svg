@@ -12,7 +12,7 @@
     .rule  { stroke: #30363d; }
   }
 </style>
-<text x="82" y="70" class="big" text-anchor="middle">1,722</text>
+<text x="82" y="70" class="big" text-anchor="middle">1,723</text>
 <text x="82" y="100" class="title" text-anchor="middle">total contributions</text>
 <text x="82" y="124" class="label" text-anchor="middle">since Feb 19, 2023</text>
 <text x="247" y="70" class="big" text-anchor="middle">3</text>
